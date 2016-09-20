@@ -1,11 +1,9 @@
 # Site settings
-title: CI and CD with GitHub
-description: A demo blog
-email: training@github.com
-twitter_username: githubtraining
-github_username:  githubteacher
-baseurl:
-url: https://githubteacher-ci-cd-workshop.herokuapp.com
+title: DT Tribal Knowledge
+description: Knowledge sharing for the tech tribe
+email: aly.simkins@dialogtech.com
+github_username:  alysonmichele
+url: https://gituniverse-ci-cd.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
